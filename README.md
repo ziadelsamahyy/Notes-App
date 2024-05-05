@@ -7,6 +7,6 @@ Diary App is a notes app designed to help users conveniently and organize their 
 - Delete Notes.
 
 using:
--State management: Bloc (Cubit).
--Local Database: Hive.
+-State management: Bloc (Cubit).<br>
+-Local Database: Hive.<br>
 
