@@ -1,16 +1,12 @@
 # note_app
 
-A new Flutter project.
+Diary App is a notes app designed to help users conveniently and organize their ideas, important appointments, and important information. With user-friendly interface. 📲
+--the app offers the following features:
+-Add Notes (with a specific color).
+- Edit Notes (edit note's color, title and content).
+- Delete Notes.
 
-## Getting Started
+using:
+-State management: Bloc (Cubit).
+-Local Database: Hive.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
